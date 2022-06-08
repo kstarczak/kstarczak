@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kstarczak
-- 👀 I’m a physician assistant interested in transitioning to a career as a web developer
+- 👀 I’m a physician assistant transitioning to a career as a web developer
 - 🌱 I’m currently learning fullstack Javascript via The Odin Project
 - 💞️ I’m looking to collaborate on medicine related projects to utilize my current skillset
 - 📫 How to reach me ...
