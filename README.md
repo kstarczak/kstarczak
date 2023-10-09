@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kstarczak
-- 👀 I’m a physician assistant transitioning to a career as a web developer
-- 🌱 I have created projects using HTML, CSS, Javscript, and React.
----   I'm currently looking for a front end developer position
+- 👀 I’m a product manager with a background as a physician assistant
+- 🌱 I enjoy writing code and I have created projects using HTML, CSS, Javscript, and React.
 
 <!---
 kstarczak/kstarczak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
